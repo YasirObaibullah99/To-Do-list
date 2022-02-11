@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+.container-fluid{
+    background-color: rgb(31, 29, 29);
+}
+/* .navbar{
+    background-color: #e3f2fd;
+} */
+/* .container{
+    background-color: black;
+    color: white;
+} */
+.form-group{
+    margin: 5px;
+    /* background-color: ; */
+}
+footer{
+    height: 15vh;
+    /* background-color: black;  */
+    color: black;
+    font-family: 'Lato', sans-serif;
+    position: relative;
+    bottom: -150px;
+}
